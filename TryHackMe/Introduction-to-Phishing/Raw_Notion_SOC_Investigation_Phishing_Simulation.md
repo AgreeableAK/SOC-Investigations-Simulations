@@ -1,6 +1,6 @@
 # SOC Investigation Phishing Simulation
 
-TryHackMe Summary: [https://tryhackme.com/soc-sim/public-summary/0059eb76552d2959f85f2585e559e7ea301b6aa1f897d2fed5383df2632a3af2f623afda3b34c83fe45a786dcf192219](https://tryhackme.com/soc-sim/public-summary/0059eb76552d2959f85f2585e559e7ea301b6aa1f897d2fed5383df2632a3af2f623afda3b34c83fe45a786dcf192219)
+TryHackMe Summary: https://tryhackme.com/soc-sim/public-summary/0059eb76552d2959f85f2585e559e7ea301b6aa1f897d2fed5383df2632a3af2f623afda3b34c83fe45a786dcf192219
 
 ## **Alert 8814**
 
