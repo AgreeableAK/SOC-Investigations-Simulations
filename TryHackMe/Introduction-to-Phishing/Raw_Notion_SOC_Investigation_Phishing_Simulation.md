@@ -59,7 +59,7 @@ inbound
 
 08/13/2026 07:07:24.310
 
-![alt-txt](SOC-Investigations-Simulations/TryHackMe/Introduction-to-Phishing/screenshots/image.png)
+![SOC Investigation Screenshot](screenshots/image.png)
 
 ### **Incident Report:**
 
@@ -129,11 +129,11 @@ TryDetectThis Flags malicious http[:]//bit[.]ly/3sHkX3da12340
 
 08/13/2026 07:10:37.310 email received
 
-![image.png](image%201.png)
+![image.png](screenshots/image%201.png)
 
 08/13/2026 07:11:51.310 Blocked by Firewall
 
-![image.png](image%202.png)
+![image.png](screenshots/image%202.png)
 
 ### **Incident Report:**
 
@@ -308,15 +308,15 @@ inbound
 ### **Rough Note for/during investigation:**
 
 | Charlotte Allen | Web Development | [c.allen@thetrydaily.thm](mailto:c.allen@thetrydaily.thm) | win-3463 | 10.20.2.25 |
-| --- | --- | --- | --- | --- |
+
 
 https[:]//m1crosoftsupport[.]co/login Flagged Suspicious by TryDetectThis.
 
 **timestamp**: 08/13/2026 07:12:55.310
 
-![image.png](image%203.png)
+![image.png](screenshots/image%203.png)
 
-![image.png](image%204.png)
+![image.png](screenshots/image%204.png)
 
 ### **Incident Report:**
 
