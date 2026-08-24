@@ -37,7 +37,7 @@ The investigation covered:
 ## Detailed Report
 
 Check [Raw Notes](Raw_Notion_SOC_Investigation_Phishing_Simulation.md)
-Check [Investigation Report](investigation-report.md).
+<!--Check [Investigation Report](investigation-report.md).-->
 
 ## TryHackMe
 
