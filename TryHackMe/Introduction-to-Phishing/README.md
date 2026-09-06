@@ -5,10 +5,8 @@ Hands-on SOC investigation completed using the TryHackMe SOC Simulator.
 
 The scenario involved investigating phishing-related alerts, correlating email and firewall activity, identifying malicious indicators, classifying alerts, and determining escalation requirements.
 
-## Detailed Report
-
 Check [Raw Notes](Raw_Notion_SOC_Investigation_Phishing_Simulation.md)
-Check [Investigation Report](investigation-report.md).
+<!--Check [Investigation Report](investigation-report.md).-->
 
 ## TryHackMe
 
@@ -41,6 +39,4 @@ The investigation covered:
 * Amazon-themed phishing email containing a malicious shortened URL
 * Firewall-blocked phishing URL access
 * Microsoft-themed phishing email followed by successful access to a malicious URL
-
-
 
