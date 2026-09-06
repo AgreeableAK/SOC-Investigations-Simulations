@@ -39,4 +39,3 @@ The investigation covered:
 * Amazon-themed phishing email containing a malicious shortened URL
 * Firewall-blocked phishing URL access
 * Microsoft-themed phishing email followed by successful access to a malicious URL
-
