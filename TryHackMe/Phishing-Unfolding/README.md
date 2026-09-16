@@ -10,7 +10,7 @@
 
 TryHackMe SOC Simulator Summary: https://tryhackme.com/soc-sim/public-summary/10519b05f0aa66a42e38004b01a2bf514347d86cb631a661e3585ba1cda69212953de2e67642a92658442164f0be5425
 
-Raw Notes:[Notion_Raw_Notes_SOC_Investigation_Phishing_Simulation.md](screenshots/Notion_Raw_Notes_SOC_Investigation_Phishing_Simulation.md/)
+Raw Notes: [Notion_Raw_Notes_SOC_Investigation_Phishing_Simulation.md](screenshots/Notion_Raw_Notes_SOC_Investigation_Phishing_Simulation.md/)
 
 ## 1. Overview
 
