@@ -8,8 +8,8 @@ The repository documents the investigation process, evidence, alert classificati
 
 | Platform  | Investigation                                                     | Focus                                 |
 | --------- | ----------------------------------------------------------------- | ------------------------------------- |
-| TryHackMe | [Introduction to Phishing:./TryHackMe/Introduction-to-Phishing/](./TryHackMe/Introduction-to-Phishing/) | Phishing Investigation & Alert Triage |
-| TryHackMe | [Phishing Unfolding:./TryHackMe/Phishing-Unfolding/](./TryHackMe/Phishing-Unfolding/) | Phishing Investigation & Alert Triage |
+| TryHackMe | [Introduction to Phishing](./TryHackMe/Introduction-to-Phishing/): ./TryHackMe/Introduction-to-Phishing/ | Phishing Investigation & Alert Triage |
+| TryHackMe | [Phishing Unfolding]( ./TryHackMe/Phishing-Unfolding/):./TryHackMe/Phishing-Unfolding/ | Phishing Investigation & Alert Triage |
 
 
 ## Evidence
